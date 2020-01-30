@@ -84,7 +84,7 @@ author:
   avatar           : luke_colosi_portrait.jpeg
   bio              : "Young and enthusiastic scientist"
   location         : "San Diego, California"
-  employer         : "Sarah Gille Lab:http://pordlabs.ucsd.edu/sgille/"
+  employer         : "[Gille Lab]([http://pordlabs.ucsd.edu/sgille/)"
   pubmed           : #""
   googlescholar    : #""
   email            : "lcolosi@ucsd.edu"
