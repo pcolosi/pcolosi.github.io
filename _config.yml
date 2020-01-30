@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Luke Colosi"
   avatar           : luke_colosi_portrait.jpeg
-  bio              : "Undergraduate Research Intern at Scripps Institution of Oceanography"
+  bio              : "Young and enthusiastic scientist"
   location         : "San Diego, California"
-  employer         :
+  employer         : "Sarah Gille Lab"
   pubmed           : #""
   googlescholar    : #""
-  email            :
+  email            : "lcolosi@ucsd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
