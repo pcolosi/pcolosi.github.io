@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /Resume/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
-Find my CV [here.](http://lcolosi.github.io/files/lcolosi_CV.pdf)
+Find my resume [here.](http://lcolosi.github.io/files/Paul_Resume.pdf)
