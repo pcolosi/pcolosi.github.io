@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Luke Colosi"
-  avatar           : luke_colosi_portrait.jpeg
-  bio              : "Young, enthusiastic ocean scientist"
-  location         : "San Diego, California"
-  university       : "UC San Diego"
-  employer         : "http://pordlabs.ucsd.edu/sgille/"
+  name             : "Paul Colosi"
+  avatar           : Paul_Colosi_portrait.jpeg
+  bio              : "Aspiring Medicial Student"
+  location         : "Santa Cruz, California"
+  university       : "UC Santa Cruz"
+  employer         : #"http://pordlabs.ucsd.edu/sgille/"
   pubmed           : #""
   googlescholar    : #""
-  email            : "lcolosi@ucsd.edu"
+  email            : "pcolosi@ucsc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lcolosi"
+  github           : "pcolosi"
   google_plus      :
   keybase          :
   instagram        :
