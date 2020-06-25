@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-Find my resume [here.](http://pcolosi.github.io/files/Paul_Resume.pdf)
+Find my resume [here.](http://pcolosi.github.io/files/Colosi\ Paul\ Resume.pdf)
